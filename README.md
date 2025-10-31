@@ -32,6 +32,8 @@ Trata-se de uma reprodução conceitual da interface do aplicativo mobile de pag
 - **JavaScript (ES6)** — interatividade e controle da navegação
 - **GitHub Pages** — hospedagem e acesso público do projeto
 
+> É importante destacar que o código ainda não foi totalmente estruturado, pois, apesar de se tratar de um projeto pessoal, o desenvolvimento envolveu um processo de aprendizado contínuo. Durante a construção do aplicativo, novas técnicas e abordagens mais avançadas foram sendo aplicadas gradualmente. Uma refatoração poderá ser realizada, caso seja necessário.
+
 ---
 
 ## 💡 Funcionalidades e Interfaces
