@@ -10,7 +10,7 @@
 
 ## 🚀 Acesso ao Projeto
 
-🔗 [Acesse o Web Posto Pay Clone](https://hugoalbuquerque1993.github.io/Projetos/web_posto/index.html)  
+🔗 [Acesse o Web Posto Pay Clone](https://hugoalbuquerque1993.github.io/web_posto/index.html)  
 Web Posto Pay é um aplicativo móvel. O APP funciona em desktop, porém, para uma melhor experiência, tente abrir o app no smartphone ou utilize extesões de Simulador de Telefone no seu navegador desktop.
 
 ---
