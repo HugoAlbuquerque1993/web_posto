@@ -52,9 +52,19 @@ Durante o desenvolvimento deste projeto, o foco foi:
 
 - Praticar o **desenvolvimento front-end puro** (sem frameworks)
 - Criar uma **navegação funcional** entre múltiplas telas
-- Aplicar princípios de **UX/UI** e design responsivo
+- Aplicar princípios de **UX/UI** e design intuitivo
 
 ---
+
+## 👨‍💻 Autor
+
+**Hugo Albuquerque**
+
+Desenvolvedor Front-End • Foco em UX/UI e aplicações web intuitivas • Entre em contato!
+
+[![Meu Linkedin](./img/linkedin.png)](https://www.linkedin.com/in/hugoalbuquerque1993)
+
+> ⚠️ _Desenvolvido exclusivamente para fins de aprendizado e portfólio. Este projeto é conceitual e não possui vínculo com empresas, sistemas ou marcas reais. Web Posto Pay é um app que passa por atualizações contínuas, é possível que determinadas interfaces apresentadas neste projeto não correspondam fielmente às versões mais recentes do app original._
 
 ## 📜 Licença
 
@@ -62,16 +72,6 @@ Distribuído sob a licença [MIT License](LICENSE).
 Você é livre para usar, modificar e compartilhar, desde que mantenha os créditos originais.
 
 ---
-
-## 👨‍💻 Autor
-
-**Hugo Albuquerque**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugoalbuquerque1993)  
-Desenvolvedor Front-End • Foco em UX/UI e aplicações web intuitivas • Entre em contato!
-
----
-
-> ⚠️ _Desenvolvido exclusivamente para fins de aprendizado e portfólio. Este projeto é conceitual e não possui vínculo com empresas, sistemas ou marcas reais. Web Posto Pay é um app que passa por atualizações contínuas, é possível que determinadas interfaces apresentadas neste projeto não correspondam fielmente às versões mais recentes do app original._
 
 ## 📸 Pré-visualizações
 
